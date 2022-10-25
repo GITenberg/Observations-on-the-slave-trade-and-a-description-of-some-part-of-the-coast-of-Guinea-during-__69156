@@ -1,11 +1,16 @@
 _repo: Observations-on-the-slave-trade-and-a-description-of-some-part-of-the-coast-of-Guinea-during-__69156
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69156-h/images/cover.jpg
 creator:
   author:
     agent_name: Wadstrom, Carl Bernhard
     gutenberg_agent_id: '55135'
     url: http://www.gutenberg.org/2009/agents/55135
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69156#Observations-on-the-slave-trade-and-a-description-of-some-part-of-the-coast-of-Guinea-during-_
 gutenberg_issued: '2022-10-14'
 identifiers:
   gutenberg: '69156'
